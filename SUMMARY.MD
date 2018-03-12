@@ -57,6 +57,8 @@
   - React
     - [[Standard] Binding functions in A React component](/react-native/react/binding-functions-in-react-component.s.md)
     - [[MO] Enable component overflow on Android](/react-native/react/enable-overflow-android.mo.md)
+    - [[MO] Get a component size or position with onLayout](/react-native/react/get-element-size-or-position-with-onLayout.mo.md)
+    
   - Redux
     - [[MO] Custom fields with redux-form](/react-native/redux/custom-redux-form-field.mo.md)
     - [[Package] Factorise common Redux async boilerplate with redux-async-actions-factory](https://github.com/bamlab/redux-async-actions-factory)
